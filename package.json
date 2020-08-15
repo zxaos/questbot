@@ -1,0 +1,24 @@
+{
+  "name": "qbot",
+  "version": "1.0.0",
+  "description": "An assistant for the Quest RPG",
+  "main": "index.js",
+  "scripts": {
+    "lint": "xo index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "quest",
+    "dice"
+  ],
+  "author": "Matt Bond",
+  "license": "UNLICENCED",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  },
+  "devDependencies": {
+    "xo": "^0.33.0"
+  }
+}
